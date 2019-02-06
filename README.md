@@ -16,16 +16,16 @@ Para realizar peticiones a la API se debe acceder al siguiente enlace: [Doggy-AP
 ##Especificaciones y estructura
 
 Cada objeto dentro de la API cuenta con la siguiente estructura:
-  1.Nombre
-  2.Descripción
-  3.Imagen
-  4.Altura
-  5.Peso
-  6.Pelaje
-  7.Uso
-  8.Origen
-  9.Personalidad
-  10.Salud
-  11.Ejercicio
-  12.Nutrición
-  13.Aseo
+  1. Nombre
+  2. Descripción
+  3. Imagen
+  4. Altura
+  5. Peso
+  6. Pelaje
+  7. Uso
+  8. Origen
+  9. Personalidad
+  10. Salud
+  11. Ejercicio
+  12. Nutrición
+  13. Aseo
