@@ -23,11 +23,11 @@ Cada objeto dentro de la API cuenta con la siguiente estructura:
       1. Mínima
       2. Máxima
   5. Peso
-    1. Mínimo
-    2. Máximo
+      1. Mínimo
+      2. Máximo
   6. Pelaje
-    1.Tipo
-    2.Color
+      1.Tipo
+      2.Color
   7. Uso
   8. Origen
   9. Personalidad
