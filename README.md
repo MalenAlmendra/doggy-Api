@@ -20,14 +20,14 @@ Cada objeto dentro de la API cuenta con la siguiente estructura:
   2. Descripción
   3. Imagen
   4. Altura
-    i. Mínima
-    ii. Máxima
+    Mínima
+    Máxima
   5. Peso
-    i. Mínima
-    ii. Máxima
+    Mínima
+    Máxima
   6. Pelaje
-    i. Tipo
-    ii. Color
+    Tipo
+    Color
   7. Uso
   8. Origen
   9. Personalidad
