@@ -18,7 +18,7 @@ Para realizar peticiones a la API se debe acceder al siguiente enlace: [Doggy-AP
 Cada objeto dentro de la API cuenta con la siguiente estructura:
   1. Nombre
   2. Descripción
-  3. Imagen (*no disponibles por el momento*)
+  3. Imagen (*no disponible por el momento*)
   4. Altura
       1. Mínima
       2. Máxima
