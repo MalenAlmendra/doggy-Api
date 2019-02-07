@@ -21,8 +21,8 @@ Cada objeto dentro de la API cuenta con la siguiente estructura:
   3. Imagen
   4. Altura
   
-    *Mínima
-    *Máxima
+    1. Mínima
+    2. Máxima
     
   5. Peso
   
