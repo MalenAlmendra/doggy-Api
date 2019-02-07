@@ -13,7 +13,7 @@ La API fue desarrollada con node.JS y MongoDB, y se encuentra alojada en Heroku
 
 Para realizar peticiones a la API se debe acceder al siguiente enlace: [Doggy-API](https://doggy-api.herokuapp.com/api/dogs)
 
-## Especificaciones y estructura
+## Estructura de la API
 
 Cada objeto dentro de la API cuenta con la siguiente estructura:
   1. Nombre
